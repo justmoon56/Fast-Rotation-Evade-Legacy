@@ -5,8 +5,8 @@ local player = Players.LocalPlayer
 local connection
 
 -- Settings
-local TURN_SPEED = 30
-local STRAFE_POWER = 79
+local TURN_SPEED = 85
+local STRAFE_POWER = 95
 local THRESHOLD = 0.05
 local MAX_DT = 1/30
 
